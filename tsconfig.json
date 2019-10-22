@@ -10,6 +10,6 @@
     "outDir": "./lib",
     "strict": true
   },
-  "include": ["src"],
+  "include": ["src", "pick.test.ts"],
   "exclude": ["node_modules", "**/__tests__/*"]
 }

@@ -2,5 +2,7 @@ src
 node_modules
 tsconfig.json
 tslint.json
+jestconfig.json
 .prettierrc
+.travis.yml
 TODO
