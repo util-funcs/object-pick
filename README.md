@@ -2,7 +2,7 @@
 
 Pick properties from an object and take new one.
 
-[![npm version](https://badge.fury.io/js/%40util-funcs%2Fpick.svg)](https://badge.fury.io/js/%40util-funcs%2Fpick)
+[![npm version](https://badge.fury.io/js/%40util-funcs%2Fpick.svg)](https://badge.fury.io/js/%40util-funcs%2Fpick) [![Build Status](https://travis-ci.org/util-funcs/pick.svg?branch=master)](https://travis-ci.org/util-funcs/pick)
 
 ## Getting Started
 
