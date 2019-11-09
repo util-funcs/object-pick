@@ -1,7 +1,7 @@
 {
   "name": "@util-funcs/pick",
-  "version": "0.0.2",
-  "description": "Pick properties from an object and take new one.",
+  "version": "0.0.3",
+  "description": "Pick properties of object and take a fresh one.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -24,19 +24,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/util-funcs/pick.git"
+    "url": "git+https://github.com/util-funcs/object-pick.git"
   },
   "keywords": [
+    "utility",
     "helper",
-    "pick",
-    "pick-properties"
+    "object",
+    "object-pick"
   ],
   "author": "Ahmet ATAY",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/util-funcs/pick/issues"
+    "url": "https://github.com/util-funcs/object-pick/issues"
   },
-  "homepage": "https://github.com/util-funcs/pick#readme",
+  "homepage": "https://github.com/util-funcs/object-pick#readme",
   "devDependencies": {
     "@types/jest": "^24.0.9",
     "cross-env": "^5.2.0",
